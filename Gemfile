@@ -8,6 +8,8 @@ gem 'sqlite3'
 gem 'bootstrap-sass', '~> 3.3.5'
 gem 'sass-rails', '>= 3.2'
 # Use Uglifier as compressor for JavaScript assets
+gem 'bcrypt-ruby', '~> 3.1', '>= 3.1.5'
+gem 'bcrypt', '~> 3.1', '>= 3.1.10'
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.1.0'
