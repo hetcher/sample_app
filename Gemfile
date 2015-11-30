@@ -7,6 +7,9 @@ gem 'rails', '4.2.4'
 gem 'sqlite3'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'bcrypt', '~> 3.1', '>= 3.1.10'
+gem 'faker', '~> 1.6', '>= 1.6.1'
+gem "will_paginate", "~> 3.0.4" 
+gem 'will_paginate-bootstrap'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
